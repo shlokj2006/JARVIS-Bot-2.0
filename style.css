@@ -88,4 +88,7 @@ body{
   font-size: 20px;
   margin-right: 20px;
 }
-  
+.main .input .content:focus {
+  outline: none;
+  border-bottom: 2px solid #f82ba3;
+}
