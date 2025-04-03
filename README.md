@@ -3,6 +3,8 @@
 
 Welcome to the Jarvis Bot 2.0 project! This is an interactive bot designed using JavaScript, HTML, and CSS. Jarvis Bot 2.0 is equipped with various functionalities to enhance your productivity and provide entertainment.
 
+https://shlokjarvis.netlify.app/
+
 Features
 
 Application Launcher: Easily open various
